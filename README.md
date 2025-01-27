@@ -1,4 +1,4 @@
-Little software for running transcription. 
+Software for running transcription. 
 
 Planned to have summarising features, and maybe diarisation too, as it's main purpose for me is to transcribe my dungeons and dragons sessions, so I have more complete notes at the end. 
 
